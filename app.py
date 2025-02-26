@@ -33,7 +33,7 @@ def init_child_logger(queue):
 # Configuración del logger en el proceso principal
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
-file_handler = logging.FileHandler("app_log.txt", mode="w")
+file_handler = logging.FileHandler("app_log.log", mode="w")
 formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(processName)s - %(message)s", "%Y-%m-%d %H:%M:%S")
 file_handler.setFormatter(formatter)
 console_handler = logging.StreamHandler()
