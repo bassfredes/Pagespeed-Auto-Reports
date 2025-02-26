@@ -1,0 +1,60 @@
+2025-02-26 14:26:17 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/?v=1740580438423
+2025-02-26 14:26:17 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/?v=1740580155262
+2025-02-26 14:26:17 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/?v=1740580048763
+2025-02-26 14:26:17 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/?v=1740580438423
+2025-02-26 14:26:18 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/?v=1740580155262
+2025-02-26 14:26:18 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/?v=1740580048763
+2025-02-26 14:27:22 [INFO] ForkProcess-3 - Análisis exitoso: 16%
+2025-02-26 14:27:22 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/?v=1740580646283
+2025-02-26 14:27:22 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/?v=1740580646283
+2025-02-26 14:27:26 [INFO] ForkProcess-1 - Análisis exitoso: 40%
+2025-02-26 14:27:26 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/?v=1740580902976
+2025-02-26 14:27:26 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/?v=1740580902976
+2025-02-26 14:27:34 [INFO] ForkProcess-2 - Análisis exitoso: 36%
+2025-02-26 14:28:26 [INFO] ForkProcess-3 - Análisis exitoso: 43%
+2025-02-26 14:28:26 [INFO] ForkProcess-1 - Análisis exitoso: 39%
+2025-02-26 14:28:27 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/Hombre?v=1740580909095
+2025-02-26 14:28:27 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/Hombre?v=1740580582170
+2025-02-26 14:28:27 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/Hombre?v=1740580332741
+2025-02-26 14:28:27 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/Hombre?v=1740580909095
+2025-02-26 14:28:27 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/Hombre?v=1740580582170
+2025-02-26 14:28:27 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/Hombre?v=1740580332741
+2025-02-26 14:29:40 [INFO] ForkProcess-2 - Análisis exitoso: 31%
+2025-02-26 14:29:41 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/Hombre?v=1740580710786
+2025-02-26 14:29:41 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/Hombre?v=1740580710786
+2025-02-26 14:29:45 [INFO] ForkProcess-3 - Análisis exitoso: 37%
+2025-02-26 14:29:45 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/Hombre?v=1740581103053
+2025-02-26 14:29:45 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/Hombre?v=1740581103053
+2025-02-26 14:29:46 [INFO] ForkProcess-1 - Análisis exitoso: 32%
+2025-02-26 14:30:36 [INFO] ForkProcess-2 - Análisis exitoso: 37%
+2025-02-26 14:31:00 [INFO] ForkProcess-3 - Análisis exitoso: 38%
+2025-02-26 14:31:01 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580997338
+2025-02-26 14:31:01 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580784913
+2025-02-26 14:31:01 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580669538
+2025-02-26 14:31:01 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580784913
+2025-02-26 14:31:01 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580669538
+2025-02-26 14:31:01 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580997338
+2025-02-26 14:31:53 [INFO] ForkProcess-1 - Análisis exitoso: 54%
+2025-02-26 14:31:53 [INFO] ForkProcess-3 - Análisis exitoso: 50%
+2025-02-26 14:31:53 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580356818
+2025-02-26 14:31:53 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580858166
+2025-02-26 14:31:54 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580356818
+2025-02-26 14:31:54 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/chaqueta-unisex-ycsc-x-disney-mickey-columbia-2125161-xp9/p?v=1740580858166
+2025-02-26 14:32:01 [INFO] ForkProcess-2 - Análisis exitoso: 44%
+2025-02-26 14:33:03 [INFO] ForkProcess-1 - Análisis exitoso: 40%
+2025-02-26 14:33:04 [INFO] ForkProcess-3 - Análisis exitoso: 60%
+2025-02-26 14:33:04 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580997420#/cart
+2025-02-26 14:33:04 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580745712#/cart
+2025-02-26 14:33:04 [INFO] ForkProcess-1 - URL generada en proceso: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580937942#/cart
+2025-02-26 14:33:05 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580997420#/cart
+2025-02-26 14:33:05 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580745712#/cart
+2025-02-26 14:33:05 [INFO] ForkProcess-1 - Iniciando análisis de URL: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580937942#/cart
+2025-02-26 14:34:04 [INFO] ForkProcess-3 - Análisis exitoso: 15%
+2025-02-26 14:34:04 [INFO] ForkProcess-3 - URL generada en proceso: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740581212804#/cart
+2025-02-26 14:34:04 [INFO] ForkProcess-3 - Iniciando análisis de URL: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740581212804#/cart
+2025-02-26 14:34:06 [INFO] ForkProcess-2 - Análisis exitoso: 14%
+2025-02-26 14:34:06 [INFO] ForkProcess-2 - URL generada en proceso: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580973736#/cart
+2025-02-26 14:34:06 [INFO] ForkProcess-2 - Iniciando análisis de URL: https://www.columbiachile.cl/checkout/?orderFormId=99283ff6f1e945a1bd1ff9eab700ed6a&v=1740580973736#/cart
+2025-02-26 14:34:15 [INFO] ForkProcess-1 - Análisis exitoso: 15%
+2025-02-26 14:35:05 [INFO] ForkProcess-3 - Análisis exitoso: 2%
+2025-02-26 14:35:19 [INFO] ForkProcess-2 - Análisis exitoso: 47%
